@@ -1,0 +1,24 @@
+#im{
+    font-size:xx-large;
+    font-family: 'Rubik Glitch', cursive;
+    background-color:lightblue
+}
+#n{
+    font-family: 'Playfair Display', serif;
+    font-size:x-large;
+    background-color:dimgrey
+}
+#r{
+    font-family: 'Patrick Hand', cursive;
+    font-size:larger;
+    background-color: darkgrey;
+}
+body{
+    background-color:grey;
+}
+#a{
+   position:fixed;
+   font-size:large; 
+   background-color:white;
+   text-align: center;
+}
